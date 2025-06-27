@@ -27,7 +27,7 @@
   * Training: \~78.66%
   * Testing: \~77.27%
 
-### 📈 Input Features Used:
+###  Input Features Used:
 
 | Feature                  | Description                 |
 | ------------------------ | --------------------------- |
@@ -86,7 +86,7 @@
 | DiabetesPedigreeFunction | 0.6     |
 | Age                      | 29      |
 
----
+
 
 ##  Outputs Provided
 
@@ -115,8 +115,3 @@ This project is open-sourced under the [MIT License](LICENSE).
 
 **Purnika** with love for health awareness and tech empowerment.
 
----
-
-Stay safe. Stay informed.
-
-> *"Your health is your real wealth."*
